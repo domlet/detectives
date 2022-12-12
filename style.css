@@ -15,12 +15,13 @@ h2 {
   font-family: "Special Elite";
 }
 
-img {
+/* img {
   height: 10em;
   float: left;
   padding-right: 1.5em;
   padding-bottom: 1em;
-}  
+  border-color: black
+}   */
 
 a {
   color: darkkhaki;
